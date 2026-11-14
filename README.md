@@ -24,3 +24,19 @@ The workflow automatically runs whenever new changes are pushed to the repositor
 ## Security Scanning Tool
 
 **CodeQL** is a code analysis tool that helps developers identify potential security vulnerabilities and coding errors in their source code.
+
+## GitHub Contribution Workflow
+
+This repository also demonstrates the contribution workflow
+for SIS №7 of the Introduction to Open Source Development course.
+
+### Contribution Steps
+
+1. Create an issue describing a bug or a proposed improvement.
+2. Create a new branch for the changes.
+3. Make the necessary changes and commit them.
+4. Open a pull request and link it to the issue.
+5. Review and merge the pull request into the main branch.
+
+This workflow helps developers collaborate, review changes,
+and maintain the quality of an open source project.
